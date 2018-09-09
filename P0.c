@@ -1,3 +1,6 @@
+//Diego Miranda Duarte
+//Matricula: 11711EAU019 turma: UC
+
 #include<stdio.h>
 
 int main(int argc, char ** argv)
