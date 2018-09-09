@@ -1,3 +1,6 @@
+//Diego Miranda Duarte
+//Matricula 11711EAU019
+
 #include<stdio.h>
 
 int main(){
