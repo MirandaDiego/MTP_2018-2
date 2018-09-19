@@ -12,7 +12,7 @@ scanf("%s", bits);
 
 for(i=0; bits[i]!='\0'; i++)
 {
-	if(bits[i]=='0'&&estado==0){
+	if(bits[i]=='0'&&estad==0){
 		estad=0;}
 		else if(bits[i]=='1'&&estad==0){
 		estad=1;}
